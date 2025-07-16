@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Idowu Olabanji Peter
 
-## Frontend Developer | HTML, CSS, JavaScript, Node.js
+## Frontend Developer | HTML, CSS, JavaScript, JQuery, Node.js
 
-📍 Nigeria | 🌐 [Portfolio](https://idobanji.github.io/Olabanji-Idowu) | ✉️ idowuolabanji181@gmail.com
+📍 Nigeria | 🌐 [Portfolio](https://github.com/idobanj) | ✉️ idowuolabanji181@gmail.com
 
 ---
 
 ### 👨‍💻 About Me  
 I'm a frontend developer passionate about building clean and interactive web applications. I love transforming ideas into real projects using modern tools and technologies. Currently expanding my backend skills with **Node.js**.
 
-- 🔭 Currently working on: personal and open-source web projects  
+- 🔭 Currently working on: [personal and open-source web projects](https://github.com/idobanj/Newsletter-Signup)  
 - 🌱 Learning: React and backend fundamentals  
 - 💬 Ask me about: Frontend development, Git, and website deployment  
 - ⚡ Fun fact: I love playing the drum kit in my free time!  
@@ -27,15 +27,15 @@ I'm a frontend developer passionate about building clean and interactive web app
 ---
 
 ### 📊 GitHub Stats  
-![Idobanji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=idobanji&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idobanji&layout=compact)
+![Idobanji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=idobanj&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idobanj&layout=compact)
 
 ---
 
 ### 🔗 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/yourhandle)
-✅ ## Hi there 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=olabanji-idowu-6176ab297)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/iam_idobanj181)
+
 
 <!--
 **idobanj/idobanj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
