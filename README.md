@@ -2,7 +2,7 @@
 
 ## Frontend Developer | HTML, CSS, JavaScript, JQuery, Node.js
 
-📍 Nigeria | 🌐 [Portfolio](https://github.com/idobanj) | ✉️ idowuolabanji181@gmail.com
+📍 Nigeria | 🌐 [Portfolio](https://idobanj.github.io/Olabanji-Idowu/) | ✉️ idowuolabanji181@gmail.com
 
 ---
 
