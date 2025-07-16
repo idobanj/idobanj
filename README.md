@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Olabanji Idowu
+# <img src="https://media.giphy.com/media/hv5AEBpH3ZyNoRnABG/giphy.gif" width="30px"> 👋 Hi, I'm Olabanji Idowu
 
 ## Frontend Developer | HTML, CSS, JavaScript, JQuery, Node.js
 
