@@ -27,7 +27,7 @@ I'm a frontend developer passionate about building clean and interactive web app
 ---
 
 ### 📊 GitHub Stats  
-![Idobanji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=idobanj&show_icons=true&theme=radical)  
+![Olabanji Idowu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=idobanj&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idobanj&layout=compact)
 
 ---
