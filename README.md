@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Idowu Olabanji Peter
+# 👋 Hi, I'm Olabanji Idowu
 
 ## Frontend Developer | HTML, CSS, JavaScript, JQuery, Node.js
 
